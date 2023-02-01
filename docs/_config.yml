@@ -1,14 +1,17 @@
 # Configuration Options
 title: Analog Signal Display (Scope)
 author: "Alexa Wright '24 & Tristan Huang '24"
-theme: minima
+
 
 header-pages:
   - scope.html
   - index.html
+
+
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme 
+
 
 # Github Pages settings that cannot be changed
 # lsi: false
