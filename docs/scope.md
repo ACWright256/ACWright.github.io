@@ -6,12 +6,12 @@ permalink: /scope/
 
 ## Links
 
-[Analog Design](/analogdesign.html)
-[FPGA Design](/fpgadesign.html)
-[MCU Design](/mcudesign.html)
-[Results](/results.html)
-[Documentation](/documentation.html)
-[Resources](/resources.html)
+[Analog Design](/scope/analogdesign)
+[FPGA Design](/scope/fpgadesign)
+[MCU Design](/scope/mcudesign)
+[Results](/scope/results)
+[Documentation](/scope/documentation)
+[Resources](/scope/resources)
 
 
 <div style="text-align: left">
