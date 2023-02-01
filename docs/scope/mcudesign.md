@@ -7,7 +7,7 @@ The primary goal of the microcontroller in this project is to convert an analog 
 
 ## MCU Block Diagram
 <div style="text-align: center">
-  <img src="../assets/schematics/mcu_block.PNG" alt="mcublock" width="500" />
+  <img src=".../assets/schematics/mcu_block.PNG" alt="mcublock" width="500" />
 </div>
 
 # ADC & TIMER Peripherals

@@ -4,7 +4,7 @@ title: Analog Circuit Design
 permalink: /scope/analogdesign/
 ---
 <div style="text-align: center">
-  <img src="../assets/schematics/analog.png" alt="analogdesign" width="800" />
+  <img src=".../assets/schematics/analog.png" alt="analogdesign" width="800" />
 </div>
 
 The goals of the front end analog circuitry are to provide an antialiasing filter, signal amplification, signal attenuation, signal offset, and time scaling. The analog front end contains a main circuit, and a probe. The probe is a hand-made shielded cable that elminates magnetic disturbances on the input signal wire.
@@ -36,11 +36,11 @@ Initially, the probe was designed in accordance to traditional oscilloscope prob
 
 ## Final Circuitry
 <div style="text-align: center">
-  <img src="../assets/schematics/final_circuit.jpg" alt="analogdesign" width="500" />
+  <img src=".../assets/schematics/final_circuit.jpg" alt="analogdesign" width="500" />
 </div>
 
 ## Prototype Circuitry
 <div style="text-align: center">
-  <img src="../assets/schematics/prototype_circuit.jpg" alt="analogdesign" width="500" />
+  <img src=".../assets/schematics/prototype_circuit.jpg" alt="analogdesign" width="500" />
 </div>
 
