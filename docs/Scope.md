@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Digital Oscilloscope
-permalink: /
-exclude: true
+permalink: /scope/
 ---
 
 <div style="text-align: left">

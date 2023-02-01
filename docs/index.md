@@ -5,8 +5,7 @@ permalink: /
 exclude: true
 ---
 
-
-# Abstract
+# Alexa Wright's Webpage
 Alexa Wright
 <n></n>
 
