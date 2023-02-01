@@ -4,7 +4,7 @@ title: Resources
 permalink: /scope/resources/
 exclude: true
 ---
-
+[Back to project](/scope)
 ## References
 [Oscilloscope Front End Design Talk](https://www.youtube.com/playlist?list=PLzHyxysSubUmxGOMVpiKLxouweh2AAlG1)
 

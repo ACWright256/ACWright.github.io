@@ -4,6 +4,7 @@ title: Analog Circuit Design
 permalink: /scope/analogdesign/
 exclude: true
 ---
+[Back to project](/scope)
 <div style="text-align: center">
   <img src="../../assets/schematics/analog.png" alt="analogdesign" width="800" />
 </div>

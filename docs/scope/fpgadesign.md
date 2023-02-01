@@ -4,7 +4,7 @@ title: FPGA Design
 permalink: /scope/fpgadesign/
 exclude: true
 ---
-
+[Back to project](/scope)
 
 # FPGA Design
 The FPGA is composed of an SPI module, a data storage module, and a display module. The SPI module receives data from the microcontroller and sends the data to the data storage module. If the SPI module completes the transaction and the display completes a frame, the data gets stored on flip-flops to be read by the display module.
