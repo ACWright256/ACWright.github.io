@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analog Circuit Design
-permalink: /analogdesign/
+permalink: /scope/analogdesign/
 ---
 <div style="text-align: center">
   <img src="../assets/schematics/analog.png" alt="analogdesign" width="800" />

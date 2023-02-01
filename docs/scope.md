@@ -5,13 +5,13 @@ permalink: /scope/
 ---
 
 <div style="text-align: left">
-  <img src="./assets/img/hmc_logo.png" alt="logo" width="100" />
-  <img src="./assets/img/Logo.png" alt="logo" width="100" />
+  <img src="../assets/img/hmc_logo.png" alt="logo" width="100" />
+  <img src="../assets/img/Logo.png" alt="logo" width="100" />
 </div>
 
 <n></n>
 <div style="text-align: center">
-  <img src="./assets/img/scope.jpg" alt="logo" width="800" />
+  <img src="../assets/img/scope.jpg" alt="logo" width="800" />
 </div>
 <n></n>
 
@@ -28,5 +28,5 @@ The team was motivated to uncover the complexities of an oscilloscope. Oscillosc
 # System Block Diagram
 
 <div style="text-align: center">
-  <img src="./assets/schematics/system_block_diagram.png" alt="system" width="800" />
+  <img src="../assets/schematics/system_block_diagram.png" alt="system" width="800" />
 </div>

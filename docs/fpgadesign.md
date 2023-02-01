@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FPGA Design
-permalink: /fpgadesign/
+permalink: /scope/fpgadesign/
 ---
 
 
