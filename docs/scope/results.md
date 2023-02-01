@@ -2,6 +2,7 @@
 layout: page
 title: Results
 permalink: /scope/results/
+exclude: true
 ---
 
 # Results

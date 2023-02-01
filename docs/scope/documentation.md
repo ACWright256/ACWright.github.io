@@ -2,6 +2,7 @@
 layout: page
 title: Documentation
 permalink: /scope/documentation/
+exclude: true
 ---
 
 

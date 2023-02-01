@@ -7,7 +7,7 @@ header-pages:
   - scope.html
   - index.html
   - results.html
-
+  
 # Github Pages settings that cannot be changed
 # lsi: false
 # safe: true

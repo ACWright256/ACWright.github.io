@@ -2,6 +2,7 @@
 layout: page
 title: Analog Circuit Design
 permalink: /scope/analogdesign/
+exclude: true
 ---
 <div style="text-align: center">
   <img src=".../assets/schematics/analog.png" alt="analogdesign" width="800" />

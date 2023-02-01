@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 permalink: /scope/resources/
+exclude: true
 ---
 
 ## References
