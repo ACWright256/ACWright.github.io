@@ -1,12 +1,10 @@
 # Configuration Options
-title: Analog Signal Display (Scope)
-author: "Alexa Wright '24 & Tristan Huang '24"
+title: Alexa Wright Webpage
+author: "Alexa Wright "
 theme: minima
 
 header-pages:
-  - documentation.html
-  - results.html
-  - resources.html
+  - scope.html
 
 
 # Github Pages settings that cannot be changed
