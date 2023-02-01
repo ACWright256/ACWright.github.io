@@ -38,11 +38,11 @@ Initially, the probe was designed in accordance to traditional oscilloscope prob
 
 ## Final Circuitry
 <div style="text-align: center">
-  <img src=".../assets/schematics/final_circuit.jpg" alt="analogdesign" width="500" />
+  <img src="../../assets/schematics/final_circuit.jpg" alt="analogdesign" width="500" />
 </div>
 
 ## Prototype Circuitry
 <div style="text-align: center">
-  <img src=".../assets/schematics/prototype_circuit.jpg" alt="analogdesign" width="500" />
+  <img src="../../assets/schematics/prototype_circuit.jpg" alt="analogdesign" width="500" />
 </div>
 
