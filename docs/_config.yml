@@ -1,0 +1,22 @@
+# Configuration Options
+title: Analog Signal Display (Scope)
+author: "Alexa Wright '24 & Tristan Huang '24"
+theme: minima
+
+header-pages:
+  - documentation.html
+  - results.html
+  - resources.html
+
+
+# Github Pages settings that cannot be changed
+# lsi: false
+# safe: true
+# source: [your repo's top level directory]
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
