@@ -17,27 +17,27 @@ The SPI data on the flops first reaches the coordinate mapping combinational log
 ## FPGA Schematics and Block Diagrams
 ### Top Level Schematics
 <div style="text-align: center">
-  <img src=".../assets/schematics/FPGA_overview.png" alt="fpgaoverview" width="600" />
+  <img src="../../assets/schematics/FPGA_overview.png" alt="fpgaoverview" width="600" />
 </div>
 
 ### Display module
 <div style="text-align: center">
-  <img src=".../assets/schematics/display_module.png" alt="displaymodule" width="800" />
+  <img src="../../assets/schematics/display_module.png" alt="displaymodule" width="800" />
 </div>
 
 ## FPGA Finite State Machines
 ### Main FSM
 <div style="text-align: center">
-  <img src=".../assets/schematics/main_fsm.png" alt="displaymodule" width="600" />
+  <img src="../../assets/schematics/main_fsm.png" alt="displaymodule" width="600" />
 </div>
 
 ### ColorMod FSM
 <div style="text-align: center">
-  <img src=".../assets/schematics/colormod_fsm.png" alt="displaymodule" width="600" />
+  <img src="../../assets/schematics/colormod_fsm.png" alt="displaymodule" width="600" />
 </div>
 
 
 ### Colshift FSM
 <div style="text-align: center">
-  <img src=".../assets/schematics/colshift_fsm.png" alt="displaymodule" width="400" />
+  <img src="../../assets/schematics/colshift_fsm.png" alt="displaymodule" width="400" />
 </div>
