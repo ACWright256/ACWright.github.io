@@ -8,5 +8,5 @@ exclude: true
 
 
 
-# Woah
-
+# Welcome to Alexa Wright's Portfolio Site!
+This site is currently a work in progress.
