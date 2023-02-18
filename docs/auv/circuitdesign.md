@@ -16,5 +16,5 @@ exclude: true
 
 ## Sonar
 <div style="text-align: center">
-  <img src="../../assets/schematics/auv/sonar_schem.png" alt="sonar" width="500" />
+  <img src="../../assets/schematics/auv/sonar_schem.PNG" alt="sonar" width="500" />
 </div>
