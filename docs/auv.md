@@ -15,7 +15,7 @@ permalink: /auv/
 
 <n></n>
 <div style="text-align: center">
-  <img src="../../assets/img/schematics/auv/robo_photo.png" alt="robo" width="100" />
+  <img src="../assets/img/team.png" alt="team" width="100" />
 </div>
 <n></n>
 
