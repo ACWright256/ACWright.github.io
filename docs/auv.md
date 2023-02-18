@@ -9,13 +9,11 @@ permalink: /auv/
 [Mechanical Design](/auv/mechdesign)
 
 
-<div style="text-align: left">
-  <img src="../assets/img/hmc_logo.png" alt="logo" width="100" />
-</div>
+
 
 <n></n>
 <div style="text-align: center">
-  <img src="../assets/img/team.png" alt="team" width="100" />
+  <img src="../assets/img/team.png" alt="team" width="800" />
 </div>
 <n></n>
 
