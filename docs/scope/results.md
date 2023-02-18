@@ -5,6 +5,7 @@ permalink: /scope/results/
 exclude: true
 ---
 [Back to project](/scope)
+
 # Results
 The LED matrix displays analog signals as expected. The knobs and switches on the signal displayer successfully allow the user to control the offset, amplification, and attenuation of the signal.The LED matrix is able to display sine waves for varying input frequencies. 
 
