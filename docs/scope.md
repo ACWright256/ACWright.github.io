@@ -5,11 +5,11 @@ permalink: /scope/
 ---
 
 ## Links
-[Analog Design](/scope/analogdesign)
-[FPGA Design](/scope/fpgadesign)
-[MCU Design](/scope/mcudesign)
-[Results](/scope/results)
-[Documentation](/scope/documentation)
+[Analog Design](/scope/analogdesign) |
+[FPGA Design](/scope/fpgadesign) |
+[MCU Design](/scope/mcudesign) |
+[Results](/scope/results) |
+[Documentation](/scope/documentation) |
 [Resources](/scope/resources)
 
 
