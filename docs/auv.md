@@ -11,7 +11,6 @@ permalink: /auv/
 
 
 
-
 <n></n>
 <div style="text-align: center">
   <img src="../assets/img/team.png" alt="team" width="800" />
