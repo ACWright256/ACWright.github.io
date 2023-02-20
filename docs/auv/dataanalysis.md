@@ -17,7 +17,7 @@ The pressure sensor amplifier circuit were initially calibrated using the tank r
 
 
 <div style="text-align: center">
-  <img src="../../assets/img/auv/finaldepthcal.png.png" alt="depthcal" width="800" />
+  <img src="../../assets/img/auv/finaldepthcal.png" alt="depthcal" width="800" />
   Plot of the model (red), and final deployment calibration curve at Dana Point (blue).
 </div>
 
