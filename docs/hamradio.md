@@ -2,7 +2,6 @@
 layout: page
 title: Ham Radio
 permalink: /ham/
-exclude: true
 ---
 
 
