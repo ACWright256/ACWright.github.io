@@ -9,9 +9,9 @@ permalink: /ham/
 In my free time, I am a ham radio operator. I currently have a general license, with hopes of upgrading to an Amateur Extra license within the next year. My call sign is KN6ZUN.
 
 ## Creating My Station
-<div style="text-align: left" width="400" >
-  <img src="../../assets/img/ham/groundplanestation.JPG" alt="station"/>
-  <img src="../../assets/img/ham/stationgnd.JPG" alt="stationgnd"/>
+<div style="text-align: left" >
+  <img src="../../assets/img/ham/groundplanestation.JPG" alt="station" width="400"/>
+  <img src="../../assets/img/ham/stationgnd.JPG" alt="stationgnd" width="400"/>
 </div>
 
 Over the summer of 2023, I (with help) setup an HF station. 
