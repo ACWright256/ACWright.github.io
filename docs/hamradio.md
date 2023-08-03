@@ -9,7 +9,7 @@ permalink: /ham/
 In my free time, I am a ham radio operator. I currently have a general license, with hopes of upgrading to an Amateur Extra license within the next year. My call sign is KN6ZUN.
 
 ## Creating My Station
-<div style="text-align: center" width="800" >
+<div style="text-align: left" width="400" >
   <img src="../../assets/img/ham/groundplanestation.JPG" alt="station"/>
   <img src="../../assets/img/ham/stationgnd.JPG" alt="stationgnd"/>
 </div>
