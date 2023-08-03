@@ -18,11 +18,12 @@ permalink: /auv/
 <n></n>
 
 
-# Overview
+### Overview
 <n></n>
 The goal of this project was to create an autonomous underwater vehicle to collect sonar data, GPS data, and depth data for our experimental engineering course. 
 
-# Circuit Design
+### Circuit Design
+
 ## Pressure Sensor
 <div style="text-align: center">
   <img src="../../assets/schematics/auv/pressure_schem.png" alt="pressuresensor" width="1000" />
@@ -55,11 +56,11 @@ The microphone signal was amplified using a three-stage non-inverting amplifier 
 
 
 The robot was designed to be compact and hydrodynamic, with a PVC frame equipped with four motors for depth and XY navigation. The center of mass was below the center of buoyancy, and the frame had an open top for easy access to electronics and less GPS interference. A vertically extruding PVC pipe supported the microphone and pressure tube at a standard depth, while the audio exciter was attached to the bottom of the mesh. The robot was made neutrally buoyant by adding pool noodles at the top.
-# Deployments
+### Deployments
 In total, there were three deployments. At each deployment, the robot took multiple GPS, sonar, and pressure data records at the surface and 0.7 meters below the surface.
 
 
-# Data Processing
+### Data Processing
 
 
 ## Depth Data
@@ -88,7 +89,7 @@ The pressure sensor amplifier circuit were initially calibrated using the tank r
 Multipath interference posed a significant problem during data analysis. The first few milliseconds of each data record was heavily distorted by multipath interference.
 
 
-### Data from Deployment 2
+# Data from Deployment 2
 This deployment occurred on the Ocean Institute’s private pier, in the deeper region of Dana Point.
 
 <div style="text-align: center">
@@ -107,12 +108,6 @@ Histogram of 15 deployment 2 reflections that occurred between 15 and 20 m. The 
   <img src="../../assets/img/auv/sonarRadius.png" alt="sonarrad" width="800" />
   Start and end GPS locations for deployment 2. The circle corresponds to the strong reflection measured around 24 ms in fifteen different sonar samples, suggesting the signal was a reflection from the shore.
 </div>
-
-
-
-
-
-
 
 
 ## GPS Data
