@@ -4,14 +4,6 @@ title: Digital Oscilloscope Project
 permalink: /scope/
 ---
 
-## Links
-[Analog Design](/scope/analogdesign) |
-[FPGA Design](/scope/fpgadesign) |
-[MCU Design](/scope/mcudesign) |
-[Results](/scope/results) |
-[Documentation](/scope/documentation) |
-[Resources](/scope/resources)
-
 <n></n>
 <div style="text-align: left">
   <img src="../assets/img/hmc_logo.png" alt="logo" width="100" />
