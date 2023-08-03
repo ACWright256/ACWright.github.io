@@ -5,17 +5,15 @@ permalink: /ham/
 ---
 
 
-## Ham Radio
+### Ham Radio
 In my free time, I am a ham radio operator. I currently have a general license, with hopes of upgrading to an Amateur Extra license within the next year. My call sign is KN6ZUN.
 
-# Creating My Station
-<div style="text-align: center">
-  <img src="../../assets/img/ham/groundplanestation.JPG" alt="station" width="400" />
-  Station with a 10 meter ground plane antenna.
+## Creating My Station
+<div style="text-align: center" width="800" >
+  <img src="../../assets/img/ham/groundplanestation.JPG" alt="station"/>
+  <img src="../../assets/img/ham/stationgnd.JPG" alt="stationgnd"/>
 </div>
-<div style="text-align: center">
-  <img src="../../assets/img/ham/stationgnd.JPG" alt="stationgnd" width="400" />
-</div>
+
 Over the summer of 2023, I (with help) setup an HF station. 
 We initially set up a 10 meter ground plane antenna. Given typical ionospheric conditions in the area, we decided to create a 20 meter dipole antenna to improve the reach of the station.
 <n></n>
@@ -39,7 +37,7 @@ We created the feed point by drilling 4 holes into a PCV T connector, feeding th
 </div>
 
 <n></n>
-Antenna Verification
+# Antenna Verification
 <n></n>
 We determined that our antenna's center frequency closely matched the desired 14.175 Mhz, and had a standing wave ratio of about 1.022. 
 
