@@ -10,8 +10,8 @@ In my free time, I am a ham radio operator. I currently have a general license, 
 
 # Creating My Station
 <div style="text-align: center">
-  <img src="../../assets/img/ham/groundplanestation.JPG" alt="station" width="400" />
-  <img src="../../assets/img/ham/stationgnd.JPG" alt="stationgnd" width="400" />
+  <img src="../../assets/img/ham/groundplanestation.JPG" alt="station" width="400" display="inline-block" />
+  <img src="../../assets/img/ham/stationgnd.JPG" alt="stationgnd" width="400" display="inline-block" />
   Station with a 10 meter ground plane antenna.
 </div>
 Over the summer of 2023, I (with help) setup an HF station. 
