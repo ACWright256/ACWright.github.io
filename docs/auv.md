@@ -20,7 +20,7 @@ We verified the efficacy of our sonar system by comparing the measured depth to 
 
 For more information, click [here](https://drive.google.com/file/d/16dLYdiTFBxq6Ycjpd2Q3qWm6e8IngI3I/view?usp=sharing)
 
-## Sonar
+
 <div style="text-align: center">
   <img src="../../assets/schematics/auv/sonar_schem.PNG" alt="sonar" width="1000" />
 </div>
